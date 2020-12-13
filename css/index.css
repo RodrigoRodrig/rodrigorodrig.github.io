@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+}
+.rr-img-logo {
+    margin-left: 30px;
+}
+.rr-nav-item {
+    float: right;
+    padding-left: 30px;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+.rr-img-gif {
+    float: left;
+    margin-left: 30px;
+}
