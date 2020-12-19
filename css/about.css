@@ -1,0 +1,28 @@
+body {
+    background: #202020;
+}
+@font-face {
+    font-family: Exo;
+    src: url(Exo-VariableFont_wght.ttf);
+  }
+h1 {
+    font-family: Exo;
+    color: white;
+}
+img {
+    border-radius:400px;
+    float: right;
+    margin-right: 55px;
+    margin-top: 55px;
+    font-weight:normal;
+}
+h5 {
+    font-family: Exo;
+    color: white;
+    margin-left: 55px;
+}
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: #555;
+  }

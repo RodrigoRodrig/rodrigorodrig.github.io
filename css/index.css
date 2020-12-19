@@ -1,16 +1,47 @@
 body {
-    font-family: Arial;
+    background: #202020;
 }
-.rr-img-logo {
-    margin-left: 30px;
+@font-face {
+    font-family: Exo;
+    src: url(Exo-VariableFont_wght.ttf);
+  }
+h2 {
+    font-family: Exo;
+    margin-left: 70px;
+    margin-top: 50px; 
+    color: white;
 }
 .rr-nav-item {
     float: right;
-    padding-left: 30px;
-    margin-top: 30px;
-    margin-right: 30px;
+    font-family: Exo;
+    padding-left: 38px;
+    color: white;
 }
-.rr-img-gif {
-    float: left;
-    margin-left: 30px;
+.rr-nav-break {
+    margin-right: 100px;
+    margin-top:-40px;
 }
+.rr-main-img {
+    float: right;
+    margin-right: 40px;
+    margin-top: -220px;
+}
+.rr-main-h1 {
+    font-family: Exo;
+    color: white;
+    margin-left: 70px;
+    margin-top: 150px;
+}
+h5 {
+    margin-left: 70px;
+    color: white;
+    font-family: Exo;  
+}
+.rr-main-href {
+    color: #00C2FF;
+}
+  h6 {
+    margin-left: 70px;
+    color: white;
+    font-family: Exo;
+  }
