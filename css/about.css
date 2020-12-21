@@ -27,25 +27,12 @@ h5 {
     margin-top: 8vh;
     height: 40vh;
     width: 40vh;
-  }
-.square-1 {
-    background-color: #555;
-    float: right;
-    margin-top: 8vh;
-    height: 50vh;
-    width: 50vh;
-  }
-.square-2 {
-    background-color: #808080;
-    float: right;
-    margin-top: 8vh;
-    height: 20vh;
-    width: 20vh;
 }
 .square-3 {
     background-color: #A9A9A9;
     float: right;
     margin-top: 8vh;
-    height: 10vh;
-    width: 10vh;
+    padding-top: 50%;
+    height: 15vh;
+    width: 20vh;
 }
