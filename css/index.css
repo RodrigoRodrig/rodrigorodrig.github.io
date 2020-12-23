@@ -16,6 +16,10 @@ h2 {
     font-family: Exo;
     padding-left: 38px;
     color: white;
+    font-size: 18px;
+}
+a {
+    text-decoration: none !important;
 }
 .rr-nav-break {
     margin-right: 100px;

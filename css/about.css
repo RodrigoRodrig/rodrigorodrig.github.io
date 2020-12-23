@@ -8,6 +8,9 @@ body {
 h1 {
     font-family: Exo;
     color: white;
+    border: 0px solid white;
+    border-bottom-width: 2px;
+    width: 200px;
 }
 img {
     border-radius:400px;
@@ -20,19 +23,4 @@ h5 {
     font-family: Exo;
     color: white;
     margin-left: 55px;
-}
-.square {
-    background-color: #696969;
-    float: right;
-    margin-top: 8vh;
-    height: 40vh;
-    width: 40vh;
-}
-.square-3 {
-    background-color: #A9A9A9;
-    float: right;
-    margin-top: 8vh;
-    padding-top: 50%;
-    height: 15vh;
-    width: 20vh;
 }
